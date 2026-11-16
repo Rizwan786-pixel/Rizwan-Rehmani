@@ -1,4 +1,4 @@
 # Rizwan-Rehmani
-this my git repository.
+This my Git Repository.
 <br>
-author Rizwan Rehmani 
+Author Rizwan Rehmani 
